@@ -59,7 +59,9 @@ The template will create the following files for your VIPER module:
 
 ## Customization
 
-You can customize the template by modifying the files in the `.xctemplate` folder before installation.
+You can customize the template by modifying the files in the `.xctemplate` folder before installation,
+Also if you use SwiftUI or Storyboard you can delete `.xib` file.
+
 
 ## Troubleshooting
 
